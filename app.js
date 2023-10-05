@@ -1,19 +1,12 @@
-//declare and definefunction input and output machine
-function test(connected){
-    console.log("connected")   
+console.log("connected");
+function bmiCalculator(userHeight, userWeight) {
+    return ((Weight / (Height * Height)) * 10000);
 }
-//run the funaction
-Test("45");
-//string " "
-const x = 420
-//declear variable,define variable
-test(x);
-//
-const y = 69
-test(y)
-const z = function add(x+y);
 
-test
-add(42,2)
-let a =number(prompt(enter a number)
-let b =number(prompt(enter anter number)
+function bmiwavelength(){
+    if (bmi < 18.5){
+        return ("UNDERWEIGHT");
+else if (bmi < 25)
+{ return ("HEALTHY");
+else if (bmi < 30){return overweight}
+}}
